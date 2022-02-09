@@ -17,21 +17,26 @@
 }
 
 .contact-btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-inline-start: auto;
-    height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-inline-start: auto;
+  height: 44px;
   width: 153px;
-  background-color: #fff;
-  color: #002529;
+  background-color: rgba(255, 255, 255, 0);
+  color: #fff;
   border-radius: 51px;
+  border: 2px solid #fff ;
   
-  span{
-      padding: 16px 33px 21px 32px;
-      font-size: rem(18px);
-      font-family: livvic-semibold;
+  span {
+    font-size: rem(18px);
+    font-family: livvic-semibold;
+  }
+
+  &.revert{
+    color: #002f34;
+    border: 2px solid #002f34 ;
+
 
   }
-  
 }

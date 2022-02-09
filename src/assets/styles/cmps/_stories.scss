@@ -1,5 +1,5 @@
 .stories {
-  height: 745px;
+  min-height: 745px;
   background-color: $dark-teal;
   position: relative;
   .bottomoval {
@@ -11,7 +11,7 @@
 
   .stories-container {
     .stories-title {
-      width: 935px;
+      max-width: 935px;
       padding-block-start: 150px;
       padding-block-end: 85px;
       text-align: center;
@@ -22,6 +22,8 @@
   }
 
   .members-container {
+    flex-wrap: wrap;
+    margin-block-end: 150px;
       gap: 47px;
     .member {
       width: 324px;

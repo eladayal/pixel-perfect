@@ -1,5 +1,5 @@
 .hero{
-    height: 560px;
+    min-height: 560px;
     background-color: $seaweed;
 position: relative;
     .hero-leftoval{
@@ -14,10 +14,11 @@ position: relative;
     .hero-container{
         padding-block-start: 150px;
         .hero-content-container{
-            gap: 135px;
+            z-index: 10;
+            flex-wrap: wrap;
             
             .hero-title{
-                width: 530px;
+               width: 530px;
                 font-size: rem(100px);
                 font-family: livvic-bold;
                 line-height: 1;
@@ -28,7 +29,7 @@ position: relative;
                 
             }
             .hero-context{
-                width: 420px;
+                max-width: 420px;
                 font-size: rem(18px);
                 font-family: livvic-semibold;
             }

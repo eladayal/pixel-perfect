@@ -1,0 +1,36 @@
+.footer {
+  background-color: #002529;
+  min-height: 200px;
+
+  .footer-content {
+    flex-wrap: wrap;
+    margin-block-start: 50px;
+  }
+  .footer-bar {
+    margin-inline-end: 125px;
+    .logo {
+      margin-block-end: 28px;
+    }
+    .footer-link-btns {
+      width: 80%;
+    }
+  }
+
+  .footer-address {
+    color: #99a8a9;
+    line-height: 1.7;
+    
+  }
+
+  .footer-right {
+    .social-bar {
+      width: 105px;
+      margin-inline-start: auto;
+    }
+
+    .footer-copyrights {
+      color: #99a8a9;
+      font-size: rem(15px);
+    }
+  }
+}

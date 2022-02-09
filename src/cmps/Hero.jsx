@@ -9,7 +9,7 @@ export function Hero() {
             <div className="hero-container main-layout">
                     <img className="hero-leftoval" src={leftoval} alt="" />
 
-                <div className="hero-content-container flex-row-center">
+                <div className="hero-content-container flex row align-center space-between">
                     <div className="hero-title">Find the best <span>talent</span></div>
                     <div className="hero-context">
                         Finding the right people and building high

@@ -9,7 +9,6 @@ function App() {
       <AppHeader />
       <main className="main-app">
         <Switch>
-          {/* <Route component={}/> */}
           {routes.map(route => <Route key={route.path}  component={route.component} path={route.path} />)}
         </Switch>
       </main>

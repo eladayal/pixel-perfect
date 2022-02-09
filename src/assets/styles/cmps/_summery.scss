@@ -1,6 +1,6 @@
 .summery {
   position: relative;
-  height: 685px;
+  min-height: 685px;
   background-color: $darker-teal;
 
   .summery-rightoval {
@@ -11,10 +11,10 @@
   .summery-container {
     .summery-content-container {
       margin-block-start: 200px;
-      gap: 160px;
-
+      justify-content: space-between;
+      flex-wrap: wrap;
       .summery-title {
-        width: 415px;
+        max-width: 415px;
         align-self: self-start;
       }
 
@@ -37,7 +37,7 @@
           }
 
           .row-text {
-              width: 420px;
+              max-width: 420px;
             color: #ccd5d6;
             font-family: livvic-semibold;
             font-size: rem(15px);

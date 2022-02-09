@@ -1,13 +1,23 @@
 .inviter{
-    height: 200px;
+    min-height: 200px;
     background-color:$deep-pink ;
     position: relative;
 
     .leftoval{
         position: absolute;
         bottom: 0;
-        transform: translateY(50%);
+        transform: translateY(41%);
 
     }
 
+
+    .inviter-content{
+        margin-block-start: 80px;
+
+        .inviter-title {
+            color: #004047;
+            margin: 0;
+            margin-left: 66px;
+        }
+    }
 }
