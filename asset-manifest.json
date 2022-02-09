@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel-perfect/static/css/main.f2ddc974.css",
-    "main.js": "/pixel-perfect/static/js/main.7f3eaea1.js",
+    "main.js": "/pixel-perfect/static/js/main.c23b0fb0.js",
     "static/js/787.cda612ba.chunk.js": "/pixel-perfect/static/js/787.cda612ba.chunk.js",
     "static/media/Livvic-MediumItalic.ttf": "/pixel-perfect/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
     "static/media/Livvic-Bold.ttf": "/pixel-perfect/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
@@ -21,11 +21,11 @@
     "static/media/comma.svg": "/pixel-perfect/static/media/comma.925d0c96d13cdaa0cf9fd136ac395c59.svg",
     "index.html": "/pixel-perfect/index.html",
     "main.f2ddc974.css.map": "/pixel-perfect/static/css/main.f2ddc974.css.map",
-    "main.7f3eaea1.js.map": "/pixel-perfect/static/js/main.7f3eaea1.js.map",
+    "main.c23b0fb0.js.map": "/pixel-perfect/static/js/main.c23b0fb0.js.map",
     "787.cda612ba.chunk.js.map": "/pixel-perfect/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2ddc974.css",
-    "static/js/main.7f3eaea1.js"
+    "static/js/main.c23b0fb0.js"
   ]
 }
