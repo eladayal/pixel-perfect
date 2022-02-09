@@ -1,0 +1,13 @@
+.inviter{
+    height: 200px;
+    background-color:$deep-pink ;
+    position: relative;
+
+    .leftoval{
+        position: absolute;
+        bottom: 0;
+        transform: translateY(50%);
+
+    }
+
+}

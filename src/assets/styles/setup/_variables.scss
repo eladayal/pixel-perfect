@@ -1,0 +1,25 @@
+// Colors
+
+//bgc
+$seaweed: #014d56; // first section bgc
+$darker-teal: #002f34; // 3rd bgc
+$dark-teal: #004047; // 2 section bgc
+$deep-pink: #f67d7d; // 2 section bgc
+
+//Fonts
+$pink:  #f67e7e;
+$light-teal: #79c8c7;
+$blue-teal:#539d9e;
+
+
+// LAYOUT
+$layoutPadding: 165px;
+
+// Breakpoints
+$break-narrow: 460px;
+$break-normal: 720px;
+$break-wide: 960px;
+
+$padded-break-narrow: $break-narrow + $layoutPadding * 2;
+$padded-break-normal: $break-normal + $layoutPadding * 2;
+$padded-break-wide: $break-wide + $layoutPadding * 2;

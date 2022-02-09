@@ -1,0 +1,36 @@
+.app-header {
+  height: 140px;
+  background-color: $seaweed;
+
+  .app-header-container {
+    padding-block-start: 75px;
+    .logo {
+      margin-inline-end: 80px;
+    }
+
+    .header-link-btns {
+      font-family: livvic-semibold;
+      font-size: rem(18px);
+      gap: 40px;
+    }
+  }
+}
+
+.contact-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-inline-start: auto;
+    height: 50px;
+  width: 153px;
+  background-color: #fff;
+  color: #002529;
+  border-radius: 51px;
+  
+  span{
+      padding: 16px 33px 21px 32px;
+      font-size: rem(18px);
+      font-family: livvic-semibold;
+
+  }
+}

@@ -1,0 +1,49 @@
+.summery {
+  position: relative;
+  height: 685px;
+  background-color: $darker-teal;
+
+  .summery-rightoval {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+  .summery-container {
+    .summery-content-container {
+      margin-block-start: 200px;
+      gap: 160px;
+
+      .summery-title {
+        width: 415px;
+        align-self: self-start;
+      }
+
+      .summery-rows-container {
+        gap: 40px;
+        .summery-row {
+          gap: 25px;
+
+          img {
+            object-fit: none;
+          }
+          .summery-row-content {
+            gap: 25px;
+          }
+          .row-title {
+            width: 100%;
+            color: $pink;
+            font-family: livvic-bold;
+            font-size: rem(18px);
+          }
+
+          .row-text {
+              width: 420px;
+            color: #ccd5d6;
+            font-family: livvic-semibold;
+            font-size: rem(15px);
+          }
+        }
+      }
+    }
+  }
+}
