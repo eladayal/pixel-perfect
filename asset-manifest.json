@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/pixel-perfect/static/css/main.f2ddc974.css",
+    "main.js": "/pixel-perfect/static/js/main.7f3eaea1.js",
+    "static/js/787.cda612ba.chunk.js": "/pixel-perfect/static/js/787.cda612ba.chunk.js",
+    "static/media/Livvic-MediumItalic.ttf": "/pixel-perfect/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
+    "static/media/Livvic-Bold.ttf": "/pixel-perfect/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
+    "static/media/Livvic-SemiBold.ttf": "/pixel-perfect/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
+    "static/media/avatar1.svg": "/pixel-perfect/static/media/avatar1.2f79aa4a28c57d7571145d635734a31f.svg",
+    "static/media/avatar3.svg": "/pixel-perfect/static/media/avatar3.d319038711ec098b0cbb07f3cad6aaf6.svg",
+    "static/media/avatar2.svg": "/pixel-perfect/static/media/avatar2.6a5b22253d033ccb5b5467657dacb505.svg",
+    "static/media/icon2.svg": "/pixel-perfect/static/media/icon2.a86f8a8aa09eaf0add8339176f8df1eb.svg",
+    "static/media/icon3.svg": "/pixel-perfect/static/media/icon3.808b616ebdd71c0cc15a0c48c4b9779d.svg",
+    "static/media/icon1.svg": "/pixel-perfect/static/media/icon1.fb3f432dbaf931393ef079f3fa43d79b.svg",
+    "static/media/left-oval.svg": "/pixel-perfect/static/media/left-oval.2f29801992f759669e104ca42c5f3d0c.svg",
+    "static/media/bottomoval.svg": "/pixel-perfect/static/media/bottomoval.01b47d5db8e3d7aa9263ce8359a28eda.svg",
+    "static/media/rightoval.svg": "/pixel-perfect/static/media/rightoval.cc4c95574b3d833a9d8ba6d5ddaf9b50.svg",
+    "static/media/leftoval.svg": "/pixel-perfect/static/media/leftoval.a4c14d6f445c0a23807a8b98cfe8f059.svg",
+    "static/media/logo.svg": "/pixel-perfect/static/media/logo.c4434895801d37901e406fafa40e8b05.svg",
+    "static/media/bottom-oval.svg": "/pixel-perfect/static/media/bottom-oval.a93caf8138f332340321e005c75fe101.svg",
+    "static/media/comma.svg": "/pixel-perfect/static/media/comma.925d0c96d13cdaa0cf9fd136ac395c59.svg",
+    "index.html": "/pixel-perfect/index.html",
+    "main.f2ddc974.css.map": "/pixel-perfect/static/css/main.f2ddc974.css.map",
+    "main.7f3eaea1.js.map": "/pixel-perfect/static/js/main.7f3eaea1.js.map",
+    "787.cda612ba.chunk.js.map": "/pixel-perfect/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ddc974.css",
+    "static/js/main.7f3eaea1.js"
+  ]
+}
